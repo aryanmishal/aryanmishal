@@ -12,7 +12,7 @@ I build practical software at the intersection of **web engineering, data system
 - **[ETL Monitoring Dashboard](https://github.com/aryanmishal/etl-monitoring-dashboard)** — Real-time ETL observability and analytics platform (React + FastAPI + Delta Lake + MySQL)
 - **[Vulnerability Scanner](https://github.com/aryanmishal/vulnerability-scanner)** — Extensible Python scanner for automated web vulnerability checks with report generation
 - **[Software Defined Networks](https://github.com/aryanmishal/software-defined-networks)** — ML-oriented security experimentation for SDN environments
-- **[Algorithm Visualiser](https://github.com/aryanmishal/algorithm-visualiser)** — Interactive algorithm animation project for learning and demonstration
+- **[Algorithm Visualizer](https://github.com/aryanmishal/algorithm-visualiser)** — Interactive algorithm animation project for learning and demonstration
 
 ## 🛠️ Tech I use often
 `Python` · `FastAPI` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `MongoDB` · `MySQL` · `Machine Learning`
