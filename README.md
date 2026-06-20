@@ -15,7 +15,9 @@ I build practical software at the intersection of **web engineering, data system
 - **[Algorithm Visualiser](https://github.com/aryanmishal/algorithm-visualiser)** — Interactive algorithm animation project for learning and demonstration
 
 ## 🛠️ Tech I use often
-`Python` · `FastAPI` · `TypeScript` · `JavaScript` · `Next.js` · `React` · `MongoDB` · `MySQL` · `Machine Learning`
+- **Languages:** `Python`, `TypeScript`, `JavaScript`
+- **Frameworks:** `FastAPI`, `Next.js`, `React`
+- **Data & AI:** `MongoDB`, `MySQL`, `Machine Learning`
 
 ## 📫 Connect
 - GitHub: [@aryanmishal](https://github.com/aryanmishal)
