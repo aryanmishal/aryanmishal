@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hey, I'm Aryan Mishal 👋
 
-<!--
-**aryanmishal/aryanmishal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build practical software at the intersection of **web engineering, data systems, and security**.
 
-Here are some ideas to get you started:
+## 💼 Current role
+- Software Engineer at **BlackRock**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I’m focused on
+- Building scalable, reliable backend systems
+- Crafting clean and user-focused full-stack experiences
+- Exploring security-first engineering and applied ML
+- Continuously learning and shipping better software
+
+## 🛠️ Tech I use often
+- **Languages:** `Python`, `TypeScript`, `JavaScript`
+- **Frameworks:** `FastAPI`, `Next.js`, `React`
+- **Data & AI:** `MongoDB`, `MySQL`, `Machine Learning`
+
+## 📫 Connect
+- GitHub: [@aryanmishal](https://github.com/aryanmishal)
+- LinkedIn: [aryanmishal](https://www.linkedin.com/in/aryanmishal/)
+
+---
+_Always building, always learning._
