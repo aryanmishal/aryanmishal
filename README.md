@@ -7,14 +7,13 @@ I build practical software at the intersection of **web engineering, data system
 
 ## 🚀 What I’m focused on
 - Building scalable, reliable backend systems
-- Crafting clean and user-focused full-stack experiences
 - Exploring security-first engineering and applied ML
 - Continuously learning and shipping better software
 
 ## 🛠️ Tech I use often
-- **Languages:** `Python`, `TypeScript`, `JavaScript`
-- **Frameworks:** `FastAPI`, `Next.js`, `React`
-- **Data & AI:** `MongoDB`, `MySQL`, `Machine Learning`
+- **Languages:** `Java`, `Python`, `JavaScript`
+- **Frameworks:** `Spring Boot`, `FastAPI`, `React`
+- **Databases:** `MongoDB`, `MSSQL`, `Cassandra`
 
 ## 📫 Connect
 - GitHub: [@aryanmishal](https://github.com/aryanmishal)
